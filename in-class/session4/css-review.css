@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+.box-model{
+    width: 15rem;
+    height: 15rem;
+    background: limegreen;
+    border: solid orangered;
+    margin: 2rem;
+
+}
+
+.child{
+    width: 50%;
+    height: 50%;
+    background: orchid;
+}

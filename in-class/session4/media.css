@@ -1,0 +1,17 @@
+#fish{
+    max-width: 200px;
+
+}
+#fish-audio{
+    width: 400px;
+}
+
+
+img{
+width: 400px;
+height: 200px;
+display: block;
+object-fit: cover;
+margin: 2rem;
+max-width: 700px;
+border: 1rem dotted cyan;}
